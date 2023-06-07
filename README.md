@@ -95,7 +95,7 @@ RegisterNumber:212222050029
 
 
 
-### RTL LOGIC UP COUNTER
+### RTL LOGIC
 ### UP COUNTER
 
 ![242226340-10c72f0c-8af3-4070-8670-5032fdab64d2](https://github.com/Karthi2603/Exp-7-Synchornous-counters-/assets/130553768/2928a374-0d08-4df6-805b-b11d1dd820ab)
